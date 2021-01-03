@@ -22,7 +22,7 @@
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
-    "cloudscraper": "^4.6.0",
+    "cloudscraper": "git+https://github.com/Xmader/cloudscraper.git",
     "compose-middleware": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
