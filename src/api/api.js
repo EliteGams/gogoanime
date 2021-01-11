@@ -320,7 +320,7 @@ const decodeVidstreamingIframeURL = async(url) =>{
   if(_url.includes('streaming')){
     realUrl = _url.replace(/streaming/g , 'check').trim();
     if(realUrl.includes('vidcheck.io')){
-      realUrl = _url.replace(/vidcheck.io/g , 'vidstreaming.io').trim();
+      realUrl = _url.replace(/vidcheck.io/g , 'gogo-play.net').trim();
     }
   }
   if(_url.includes('load')){
